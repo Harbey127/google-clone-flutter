@@ -11,12 +11,9 @@ How to Get Starte app or web?
 - Add apiKey to source code in providers folder then get_dart_provider.dart.
 - run project.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
 
 
-screens:
+Screens:
 
 ![1](https://user-images.githubusercontent.com/94745074/177016044-4602b6f1-868e-43da-99a7-fd47db604844.png)
 ![2](https://user-images.githubusercontent.com/94745074/177016049-bb8a5600-19ef-4bfa-9568-24a4969f3a2f.png)
