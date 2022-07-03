@@ -1,3 +1,3 @@
 
-const String apiKey = "AIzaSyDe7yNvjjodhV9MTjoy37p2HorRiCArkNk";
-const String contextKey = "017576662512468239146";
+const String apiKey = "YOUR_API_KEY";
+const String contextKey = "YOUR_CONTEXT_KEY";
